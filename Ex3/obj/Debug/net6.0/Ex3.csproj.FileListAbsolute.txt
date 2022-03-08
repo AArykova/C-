@@ -1,0 +1,15 @@
+/Users/nastya/Education/C_education/SeninarOne/Ex3/bin/Debug/net6.0/Ex3
+/Users/nastya/Education/C_education/SeninarOne/Ex3/bin/Debug/net6.0/Ex3.deps.json
+/Users/nastya/Education/C_education/SeninarOne/Ex3/bin/Debug/net6.0/Ex3.runtimeconfig.json
+/Users/nastya/Education/C_education/SeninarOne/Ex3/bin/Debug/net6.0/Ex3.dll
+/Users/nastya/Education/C_education/SeninarOne/Ex3/bin/Debug/net6.0/Ex3.pdb
+/Users/nastya/Education/C_education/SeninarOne/Ex3/obj/Debug/net6.0/Ex3.csproj.AssemblyReference.cache
+/Users/nastya/Education/C_education/SeninarOne/Ex3/obj/Debug/net6.0/Ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastya/Education/C_education/SeninarOne/Ex3/obj/Debug/net6.0/Ex3.AssemblyInfoInputs.cache
+/Users/nastya/Education/C_education/SeninarOne/Ex3/obj/Debug/net6.0/Ex3.AssemblyInfo.cs
+/Users/nastya/Education/C_education/SeninarOne/Ex3/obj/Debug/net6.0/Ex3.csproj.CoreCompileInputs.cache
+/Users/nastya/Education/C_education/SeninarOne/Ex3/obj/Debug/net6.0/Ex3.dll
+/Users/nastya/Education/C_education/SeninarOne/Ex3/obj/Debug/net6.0/refint/Ex3.dll
+/Users/nastya/Education/C_education/SeninarOne/Ex3/obj/Debug/net6.0/Ex3.pdb
+/Users/nastya/Education/C_education/SeninarOne/Ex3/obj/Debug/net6.0/Ex3.genruntimeconfig.cache
+/Users/nastya/Education/C_education/SeninarOne/Ex3/obj/Debug/net6.0/ref/Ex3.dll
